@@ -1,3 +1,10 @@
+## Acknowledgments
+
+This library is based on the original Cytron Motor Drivers Library for Arduino microcontrollers.
+ The code has been adapted and modified to provide compatibility with ESP32-based boards 
+ while preserving the original features and functionality.
+
+
 # Arduino Library for Cytron Motor Drivers
 This library provides functions for Cytron Motor Drivers.<br>
 Please refer to the examples on how to use the library.<br>
